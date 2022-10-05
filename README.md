@@ -13,3 +13,5 @@ For my final project in my apprenticeship, I created a web-application used for 
 *Database* | MySQL
 
 ## Screenshots
+
+![Screenshot Dashboard](https://i.ibb.co/CV1GWfy/Dashboard.png "Dashboard")
