@@ -8,8 +8,8 @@ For my final project in my apprenticeship, I created a web-application used for 
 ## Technologies used
 |Use-case |Technology |
 |--|--|
-Backend|NodeJS
-Frontend|VueJS 3
-Database | MySQL
+*Backend*|NodeJS
+*Frontend*|VueJS 3
+*Database* | MySQL
 
 ## Screenshots
